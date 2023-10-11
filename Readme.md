@@ -4,6 +4,8 @@ This project deals with generating graphs and finding the similarity between the
 I will create a distributed program for parallel processing of the large graphs. The final part is to compare with the YAML file and find the precision of the approach of computing differences between the original and the perturbed graph.
 ## Prerequisites
 
+https://github.com/Abhishikth-Pammi/CS441-Homework1-sub.git (Use this sub project which generates the serialized text file which is an input for map reduce).
+
 Before you begin, ensure you have met the following requirements:
 
 - **Java:** The project typically requires Java. You can check if it's installed using:
