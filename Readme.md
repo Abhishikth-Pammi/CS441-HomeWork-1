@@ -21,8 +21,8 @@ mark
 
 1. **Clone the repository:**
 
-git clone [URL_TO_YOUR_GIT_REPO]
-cd [YOUR_PROJECT_DIRECTORY]
+git clone https://github.com/Abhishikth-Pammi/CS441-HomeWork-1.git
+cd CS441-HomeWork-1
 
 2. **Clean the project (Optional):**
 
@@ -46,4 +46,4 @@ Upon successful execution, this command creates a single assembly JAR file under
 
 If you want to run the application after assembling:
 
-java -jar target/scala-x.x.x/[YOUR_PROJECT_NAME]-assembly-x.x.x.jar
+java -jar target/scala-x.x.x/CS441-HomeWork-1-assembly-x.x.x.jar
