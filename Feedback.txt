@@ -1,0 +1,13 @@
+Student: Abhishikth Pammi
+
+=> No scalatests = -1%
+=> No logging = -1%
+=> Use of for loops = -0.2%
+=> THRESHOLD, output directory, filenames are hardcoded = - 0.3%
+
+Good understanding of map/reduce. The video had a good explanation of your code and AWS deployment, but I would have liked to see some more technical documentation in comments and/or the ReadMe file. Also, maybe include the instructions on how to run via SBT in the ReadMe.md file as well. These are just finer details that you can work on in the next assignment :)
+However, scalatests, logging and using .conf files are important. You can look at NetGameSim for inspiration.
+
+Good job overall!
+
+Grade = 12.5%
